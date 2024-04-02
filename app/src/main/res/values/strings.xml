@@ -1,0 +1,144 @@
+<resources>
+    <string name="app_name">Assignment3</string>
+    <string name='title0'>Katsushika Hokusai</string>
+    <string name='title1'>Toyohara Kunichika</string>
+    <string name='title2'>Utagawa Kuniyoshi</string>
+    <string name='title3'>Hiroaki Takahashi</string>
+    <string name='title4'>Goyo Hashiguchi</string>
+    <string name='title5'>Utagawa Hiroshige</string>
+    <string name='title6'>Kitagawa Utamaro</string>
+    <string name='title7'>Michelangelo Buonarroti</string>
+    <string name='title8'>Leonardo da Vinci</string>
+    <string name='title9'>Raphael Raffaello</string>
+    <string name='title10'>Sandro Botticelli</string>
+    <string name='title11'>Vincent Van Gogh</string>
+    <string name='title12'>Johannes Vermeer</string>
+    <string name='title13'>Claude Monet</string>
+    <string name='title14'>Edvard Munch</string>
+    <string name='title15'>William Blake</string>
+    <string name='title16'>Pierre Bonnard</string>
+    <string name='title17'>Bruno Liljefors</string>
+    <string name='title18'>Camille Pissarro</string>
+    <string name='title19'>Alexandre Lunois</string>
+    <string name='title20'>Eugene Delacroix</string>
+    <string name='title21'>El Greco</string>
+    <string name='title22'>Gustave Caillebotte</string>
+    <string name='title23'>Johann Georg van Caspel</string>
+    <string name='title24'>Edward Burne–Jones</string>
+    <string name='title25'>Louis Abel Truchet</string>
+    <string name='title26'>Maurice Denice</string>
+    <string name='title27'>Abraham Mignon</string>
+    <string name='title28'>Pierre-Auguste Renoir</string>
+    <string name='title29'>Abbott Handerson Thayer</string>
+    <string name='desc0'>Over seven decades, Katsushika Hokusai had produced an astounding 30,000 drawings, paintings, and prints.\n
+        \nIn his 70s, he began releasing his most famous landscape woodblock print series known as the 36 Views of Mount Fuji, which includes the iconic The Great Wave off Kanagawa.\n
+        \nHis artworks had influences beyond Japan, inspiring many renowned western artists including Edouard Manet, Claude Monet, and Vincent Van Gogh.</string>
+    <string name='desc1'>Toyohara Kunichika (1835–1900) was one of the most successful Japanese woodblock print artists during the Edo period.\n
+        \nHis passion for Kabuki shows drove him to mainly focus on producing prints of actors and actresses from Kabuki scenes, by using the Ukiyo-e style.</string>
+    <string name='desc2'>Utagawa Kuniyoshi (1798–1861) was regarded as one of the most excellent professors of Ukiyo-e movement.\n
+        \nUkiyo-e is a Japanese art movement which thrived between the 17th and 19th centuries.\n
+        \nThe stories depicted range from beautiful Japanese women, Kabuki actors, and Japanese landscapes.</string>
+    <string name='desc3'>Hiroaki Takahashi (1871-1945), also known as Shotei or Komei, was an illustrator, painter and woodblock printer from Tokyo. He learned the art of Nihonga, Japanese style painting, from his uncle Fuko Matsumoto during the early Taisho period.\n
+        \nHis works cover scenes from villages, shrines, and nature, most of them signed with a variety of his artist names.\n
+        \nShotei worked for the Shin Hanga publisher Shozaburo Watanabe. They created hundreds of woodblock prints together. Unfortunately they were destroyed in a fire during the Great Kanto earthquake.\n
+        \nDespite the loss, Shotei continued to make woodblock prints until the end of his life.</string>
+    <string name='desc4'>Goyō Hashiguchi (1880-1921) was a Japanese scholar, artist, Ukiyo-e woodblock printer, and heir to a Samurai.\n
+        \nHe was trained in traditional Kano painting by his father, and later studied western oil painting at the Tokyo School of Fine Arts.\n
+        \nHe was encouraged by, and collaborated with shin hanga publisher Watanabe Shozaburo.\n
+        \nGoyo portrayed women in intimate settings including at the bathhouse, hot springs, powder room, and in the nude.\n
+        \nHe was a perfectionist and only published 14 prints in his lifetime, these are among the finest and most highly priced Japanese modern prints.</string>
+    <string name='desc5'>Utagawa Hiroshige (1797-1858), a master of the ukiyo-e printing tradition.\n
+        \nOrphaned at the age of 12, Hiroshige started painting at a young age.\n
+        \nHis early works of nature, houses and flowering branches show the influence of Chinese scroll painting and the Kanō school of Japanese painting.</string>
+    <string name='desc6'>During the Edo period in Japan, Kitagawa Utamaro (1753–1806) was the most famous creator of Ukiyo-e woodblock prints and paintings.\n
+        \nKitagawa was famous for painting beautiful Japanese women and illustrations of nature, birds being his favorite subject.\n
+        \nHis artworks also influenced European Impressionists in the mid-nineteenth century.</string>
+    <string name='desc7'>Michelangelo Buonarroti (1475-1564, Caprese, Tuscany) was a sculptor, painter, architect, and one of the greatest Italian Renaissance artists.\n
+        \nAs he had no interest in the family trade, his father sent him for an apprenticeship with Domenico Ghirlandaio. Later, he was chosen by the renowned Medici family to attend their Humanist academy and had the opportunity to study with Bertoldo di Giovanni, a famous sculptor.\n
+        \nMichaelangelo was recognized for his extraordinary talent and received commissions from The Pope and the Catholic Church.\n
+        \nIn 1508, Pope Julius II commissioned Michelangelo to paint the ceiling of the Sistine Chapel. His most well-known artworks include: The Creation of Adam, The Pieta, and David and Last Judgement.</string>
+    <string name='desc8'>Leonardo Da Vinci (1452-1519) is among the most famous artists in history. He was a Renaissance polymath, scientist, engineer, inventor, anatomist, painter, sculptor, architect, botanist, musician, and writer.\n
+        \nBorn in 1452 as the illegitimate son of a notary, he spent his youth in the studio of the renowned Verrocchio.\n
+        \nDa Vinci\'s famous masterpieces include The Mona Lisa, The Last Supper, The Virgin of the Rocks, as well as his study sketch of the Vitruvian Man.\n
+        \nHis artworks and scientific drawings of new inventions were visionary and ahead of his time.\n
+        \nDa Vinci’s artistry and techniques heavily influenced his contemporaries including Raphael and Michelangelo.</string>
+    <string name='desc9'>Raphael (1483-1520), full name Raffaello Sanzio da Urbino, was an Italian painter and architect of High Renaissance classicism.\n
+        \nRaffaello Sanzio da Urbino was born in the Marche region of Italy. His father was a court painter and taught young Raphael the art of painting.\n
+        \nAt only 17 years old, Raphael gained recognition as a master painter. His main artistic influence was Leonardo da Vinci.\n
+        \nHe embraced sensuality in and out of his studio, and his work was admired for its clarity of form, composition and visual achievement of human grandeur.\n
+        \nHe painted Madonnas and large figure compositions such as the famous fresco The School of Athens in the Vatican.\n
+        \nRaphael had a successful yet short life, and died from illness at the age of 37. He is remembered as one of the greatest in Western art.</string>
+    <string name='desc10'>The Birth of Venus, Madonna and Child series, and more stunning mythological frescoes by Sandro Botticelli (ca. 1445-1510), one of the most important Italian Renaissance artists.\n
+        \nBotticelli combined decorative use of lines and supple contours with elements of classical tradition. He also pioneered the usage of tempera grassa.\n
+        \nRegarded as one of the greatest Florentine painters, his \'The Temptations of Christ\' on the Sistine Chapel\'s wall is often compared to, and upstaged by Michelangelo\'s artworks.</string>
+    <string name='desc11'>Vincent Willem van Gogh (1853–1890).\n
+        \nVincent struggled with mental illness throughout his short career and painted most of his most famous artwork such as \'Sunflowers\' and \'Starry Night\' during his final few years of life.\n
+        \nVan Gogh inspired early abstraction, Expressionism and Fauvism. His vivid paintings were not widely appreciated until after his death, but now are among the most expensive paintings ever sold.</string>
+    <string name='desc12'>Perfectly balanced portraits of daily life from one of the greatest painters of the Dutch Golden Age, Johannes Vermeer or (1632–1675).\n
+        \nVermeer spent his entire life in his hometown, Delft, Netherlands. Most of his paintings depicted scenes of daily life in a domestic interior setting.\n
+        \nVermeer is also renowned for his extraordinary use of light in his paintings.</string>
+    <string name='desc13'>As one of the founding fathers of the French Impressionism, Oscar-Claude Monet (1840–1926) broke free from the convention of copying from the old masters.\n
+        \nMonet\'s impressionistic artworks depicted his direct observation of nature and emphasis on the shifting of lights according to different times and seasons.</string>
+    <string name='desc14'>Edvard Munch (1863–1944) was one of the most famous Expressionist Norwegian painters.\n
+        \nHis style, known as symbolism, which mainly focused on life, love, anxiety, and loneliness played a significant role in the late 20th century art, especially in German expressionism.\n
+        \nThe dark color and somber tones, the exaggerated forms, and the contrasting lines in his designs portrayed his psychological state.\n
+        \nHis most iconic artwork, The Scream (1893), which depicts the agonized face and radical expressions, symbolizes anxiety, one of human\'s most common psychological conditions.</string>
+    <string name='desc15'>William Blake (1752–1827)\n
+        \nHis arts depict the tragedy and suffering of men through mythology masterpieces, \'Milton\' and \'Europe: a Prophecy\'.\n
+        \nThe catching feature from his artworks is the intense colors with emotional movements of the characters.</string>
+    <string name='desc16'>Pierre Bonnard (1867-1947) was a French post-impressionist painter, printmaker, and the leader of the Intimist art movement.\n
+        \nHe is regarded as one of the greatest colourists of modern art. Together with other young artists in Montmarte, Bonnard co-founded the group known as Les Nabis, translated from the arabic word “prophet”.\n
+        \nHe was known for a painting style that was very intimate, featuring friends in a garden, nudes, interiors and sunlit objects of everyday life.\n
+        \nHe began by painting in watercolor, composing scenes and deeply familiarizing himself with the subject, before transferring the composition to canvas.\n
+        \nIn many of his paintings, his mistress Marthe was the main subject. She was his most important model and was often pictured nude, after 30 years they finally married.</string>
+    <string name='desc17'>Bruno Liljefors (1860-1939).\n
+        \nHis arts depict beautiful nature motifs of animals in dramatic scenes, predator and prey, are captured in genuine and realistic paintings, with incredible detail.\n
+        \nBruno is regarded as one of the most important wildlife artists of the 19th century.</string>
+    <string name='desc18'>Camille Pissarro (1830-1903) was born on St.Thomas (now the US Virgin Islands) to a Portuguese father and a Dominican mother.\n
+        \nHe went to Paris to study art at Ecole des Beaux-Arts. He was an early pioneer of pointillism and neo-impressionism and later became a mentor of many famous impressionist painters including Cezanne, Manet, Renoir, and Gauguin.\n
+        \nHis paintings depicted rural and urban French landscapes and lifestyle. Many of his works politically captured images of peasants and laborers.\n
+        \nToday, he is considered the father of impressionism.</string>
+    <string name='desc19'>Alexandre Lunois (1863–1916) was a French painter, draughtsman, printmaker, and considered a re–inventor of the lithotint process.\n
+        \nHis artworks depict life in Paris, crowds, dancers, and women.\n
+        \nHe mainly illustrated books and made litographs for fairy tales by Hans Christian Andersen among others.</string>
+    <string name='desc20'>Ferdinand Victor Eugène Delacroix (1798-1863) was one of the most famous French painter of the Romanticism movement.\n
+        \nFrom his early days, Delacroix was recognized for excellence in drawing, sketches, aquarelle and painting.\n
+        \nHis best-known artwork Liberty Leading the People was created in honor of the July Revolution in 1830.</string>
+    <string name='desc21'>Doménikos Theotokópoulos (1541-1614), known as El Greco, ‘The Greek’, was the master of Spanish paintings.\n
+        \nMost of his work are commissioned in Toledo, Spain. As a Greek descent, he was deeply influenced by the post-Byzantine art. His expressionism style was distinguished from other artists of the time, creating a new interpretations of religious subject matter.\n
+        \nBesides, he was also the supporter of the Counter-Reformation in Spain. He paved the way from traditional naturalistic approaches into a new artistic dialogue, which emphasized culling from emotion, inner drama, and bold new renditions of color and free flowing figuration.</string>
+    <string name='desc22'>Gustave Caillebotte (1848–1894) was a French painter who combined impressionist and academic styles in his artworks.\n
+        \nDespite the fact that he is considered a great impressionist artist today, his posthumous reputation was not as significant.\n
+        \nMost of his paintings were kept by his family and not exhibited nor reproduced until the late 20th century.\n
+        \nHis artworks depict scenes from Parisian streets, modern urban environments, as well as rural country scenes and flowers.</string>
+    <string name='desc23'>Johann Georg van Caspel (1870–1928), also known as Geo van Caspel or Geo J. Caspel was a Dutch artist born in Amsterdam.\n
+        \nHe was trained as a figure and portrait painter, but was also a book-binder, calendar and brochure designer, and an architect.\n
+        \nHe made a number of posters for the Amand Printing Company in Amsterdam and illustrated picture books in Art Nouveau style, including The Sleeping Beauty in the Woods and A fairytale by Mother the Goose for Charles Perrault.</string>
+    <string name='desc24'>Sir Edward Burne-Jones (1833-1898) was a British designer and Victorian narrative painter.\n
+        \nHe was born in Birmingham to a picture-framer. He intended to become a minister and studied theology at Oxford. However, his life took a turn when he met William Morris.\n
+        \nTogether they formed The Brotherhood, a society worshipping the poets and architecture of the middle ages.\n
+        \nThey both worked together on several projects for Morris and Co. Burne-Jones designed tapestries, jewellery, sculptures, ceramics, furniture and stained glass for the company.\n
+        \nHis artworks truly captured the spirit of the nineteenth century and the Arts and Crafts movement.\n
+        \nIn recent decades his art has had a renaissance and become among the most expensive pre-raphaelite artworks to be sold at auction.</string>
+    <string name='desc25'>Louis Abel–Truchet (1857–1918) was a post–impressionist painter, etcher, and lithographer from France.\n
+        \nHe is famous for his portrayals of life in Paris, with young Parisian women, city landscapes, everyday life, and scenes from the artist quarters of Montmartre. He also created paintings showing Venice, Sienna, and Marseille.\n
+        \nAt the beginning of World War I, he joined the army as a volunteer and produced a series of lithographs depicting his firsthand wartime experiences.\n
+        \nSadly he was wounded and died shortly after the end of WWI. Two of his figurative paintings were exhibited at the Salon d’Automne in 1919, honoring artists who died in the war.</string>
+    <string name='desc26'>French painter Maurice Denis (1870-1943) was one of the leading artists during the transition from Impressionism to Modern Art. He was heavily influenced by the Symbolist works of Paul Gauguin.\n
+        \nDenis would paint with rich colors and experiment with warm and cool colors.\n
+        \nSome of his theories have become the foundations of cubism, fauvism, and abstract art.</string>
+    <string name='desc27'>Abraham Mignon (1640–1679).\n
+        \nIn the golden age of the Netherlands, Mignon was an artist who was excellent in painting still-life of fruits, flowers and birds.\n
+        \nHis favorite artwork composition was a feature of a flower or fruit, with red or white around the centre of the canvas, harmonised in a bouquet or other objects, and a black background to contrast the main subjects.</string>
+    <string name='desc28'>Pierre-Auguste Renoir (1841–1919).\n
+        \nThe young Renoir struggled with his family’s financial circumstances so he left music school and started out as an apprentice at a porcelain factory. While he studied art in Paris, he befriended the young impressionist painters: Frédéric Bazille, Claude Monet, and Alfred Sisley.\n
+        \nIn the 1870s, Renoir became one of the leading painters in the Impressionism movement. His lively paintings mostly celebrated the beauty of feminine sensuality.</string>
+    <string name='desc29'>Abbott Handerson Thayer (1849-1921) was an American artist, naturalist and teacher.\n
+        \nHe grew up in a wealthy Boston family and was a leader of the NY art world, selling portraits and allegorical figures to European Renaissance collectors.\n
+        \nHis art changed drastically when his wife died, when he moved to a colony of artists settled in Dublin, New Hampshire.\n
+        \nHe painted landscapes, delicate flowers, and idealistic paintings of women as angels and madonnas.</string>
+    <string name="expand_button">Expand Button to view description of each day</string>
+    <string name="days_30">30 Days of Arts</string>
+    <string name="made">Made by Vergil Phan</string>
+    <string name="jetpack">Vergil Phan</string>
+</resources>
